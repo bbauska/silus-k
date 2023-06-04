@@ -1,0 +1,19 @@
+{
+  "name": "silus-k",
+  "description": "Silus K Photo Journal",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Brian Bauska"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

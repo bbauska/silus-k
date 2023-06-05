@@ -83,7 +83,7 @@ If you want to use your **own domain** go to the root of your project's reposito
 
 Go to your domain name registrar and add a CNAME record pointing your domain to GitHub Pages:
 - type: CNAME
-- host: www.silus-k.bbauska.org
+- host: www.silus-k.bauska.org
 - answer: bbauska.github.io/silus-k
 - TTL: 300
 

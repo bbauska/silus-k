@@ -39,18 +39,6 @@ It uses [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-bl
 ~~For the time being, the only way to apply a custom domain name is by removing HTTPS as of the previous version. 
 Hoping Github developers will give its users the ability to add a custom domain served under security.~~
 
-### Version 1.2 (1/31/2017)
-
-* Fixed footer code so that the twitter icon links to the twitter_username instead of instagram_username.
-
-### Version 1.1 (7/15/2016)
-
-* Improved galleries and search section.
-* Better rendering of the header text.
-
-### Version 1.0 (6/19/2016)
-* Initial Template
-
 ----------
 
  **IMPORTANT!!!**
@@ -74,11 +62,6 @@ If there are problems with loading assets like CSS files and images, make sure t
 
 ----------
 
-~~**NOT FOR HTTPS served repos!!!**~~
-==================================
-
-~~* Applies for v1.2!~~
-
 If you want to use your **own domain** go to the root of your project's repository, create a CNAME file and add a line with your domain name, e.g. `www.yourdomain.com`.
 
 Go to your domain name registrar and add a CNAME record pointing your domain to GitHub Pages:
@@ -95,12 +78,12 @@ Usage
 ###Quick Start
 
 1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
-2. Go to `https://github.com/yourusername/photorama/settings`
-3. Rename the repository to your new project, e.g. *myphotoblog*
+2. Go to `https://github.com/bbauska/silus-k/photorama/settings`
+3. Rename the repository to your new project, e.g. *silus-k*
 2. Create a new branch called `gh-pages` in your repository. 
-3. Go to the branches directory at `https://github.com/yourusername/repositoryname/branches` and *change* **default branch** to **gh-pages**.
+3. Go to the branches directory at `https://github.com/bbauska/silus-k/branches` and *change* **default branch** to **gh-pages**.
 4. Delete **master** branch. 
-3. GitHub will build your site automatically and publish it at `https://yourusername.github.io/repositoryname/`.  
+3. GitHub will build your site automatically and publish it at `https://bbauska.github.io/silus-k/`.  
 
 ----------
 

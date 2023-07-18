@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunbliss/photorama.git"
+    "url": "https://github.com/silus-k/photorama.git"
   },
   "author": "Brian Bauska",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/silus-k/sunbliss/photorama/issues"
+    "url": "https://github.com/silus-k/photorama/issues"
   },
   "homepage": "http://silus-k.github.io",
   "dependencies": {

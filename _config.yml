@@ -1,16 +1,16 @@
 # Site settings
-title: SILUS-KITTERSON
-email: ""
+title: Silus-K
+email: "brianbauska@gmail.com"
 description: "Photo Journal"
 url: "https://bbauska.github.io"
 baseurl: "/silus-k"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+facebook_username: "brianbauska"
+twitter_username: "bbauska"
+instagram_username: "bbauska"
+github_username:  "bbauska"
+deviantart_username: "bbauska"
+flickr_username: "bbauska"
+discus_shortname: "brianbauska"
 share: true
 
 # Owner/author information
@@ -18,7 +18,7 @@ owner:
   name:   silus-k
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website
+  info: Silus-Kitterson photography website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://silus-k.github.io/photorama/gallery/"  
-  - JOURNAL: "https://silus-k.github.io/photorama/journal/"
-  - ABOUT: "https://silus-k.github.io/photorama/about/"
+  - GALLERY: "https://silus-k.github.io/silus-k/gallery/"  
+  - JOURNAL: "https://silus-k.github.io/silus-k/journal/"
+  - ABOUT: "https://silus-k.github.io/silus-k/about/"
 
 # All translation keys
 translations:
